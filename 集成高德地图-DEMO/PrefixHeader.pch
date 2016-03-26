@@ -1,0 +1,18 @@
+//
+//  PrefixHeader.pch
+//  集成高德地图-DEMO
+//
+//  Created by m on 16/3/25.
+//  Copyright © 2016年 XLJLIU. All rights reserved.
+//
+
+#ifndef PrefixHeader_pch
+#define PrefixHeader_pch
+
+#import <MAMapKit/MAMapKit.h>
+#import <AMapSearchKit/AMapSearchKit.h>
+#import <AMapSearchKit/AMapCommonObj.h>
+#import <AMapSearchKit/AMapSearchAPI.h>
+#define MapAipKey @"ddaa2fd457cd773b66c48aa251faf7c2"
+
+#endif /* PrefixHeader_pch */
